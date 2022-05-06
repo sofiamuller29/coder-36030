@@ -1,0 +1,70 @@
+div {
+  padding: 16px; }
+
+div {
+  color: beige; }
+
+h1 {
+  font-size: 24em; }
+
+h2 {
+  font-size: 12em; }
+
+h3 {
+  font-size: 8em; }
+
+h4 {
+  font-size: 6em; }
+
+h5 {
+  font-size: 4.8em; }
+
+h6 {
+  font-size: 4em; }
+
+.color-red {
+  background-color: red; }
+
+.color-blue {
+  background-color: blue; }
+
+.color-green {
+  background-color: green; }
+
+.color-yellow {
+  background-color: yellow; }
+
+.red-twitter {
+  color: #339be0;
+  width: 50px;
+  height: 50px;
+  padding: 2px;
+  margin: 2px; }
+
+.red-facebook {
+  color: #1d6290;
+  width: 50px;
+  height: 50px;
+  padding: 2px;
+  margin: 2px; }
+
+.red-instagram {
+  color: #d193df;
+  width: 50px;
+  height: 50px;
+  padding: 2px;
+  margin: 2px; }
+
+.boton, .boton-primario {
+  border: solid 2px;
+  padding: 8px 16px;
+  margin: 8px; }
+
+.boton-primario {
+  background-color: #d193df;
+  border-color: #339be0; }
+
+div {
+  height: 8px;
+  width: 16px;
+  margin: 24px; }
